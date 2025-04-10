@@ -54,7 +54,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6c2604233bc19b978ef83e8412873df2
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "8eea1bcf47db768d65692da84141a1a6",
 "/": "8eea1bcf47db768d65692da84141a1a6",
-"main.dart.js": "c90609f1110227cab6649288d656fd78",
+"main.dart.js": "9e6a1ca3c841054553a53cca14638712",
 "manifest.json": "ac0b558dd6940169e779724afa5dd88b",
 "version.json": "6d5528926da17ebf1aaeb0205082a8ed",
 "wmlogoHouse.png": "25a09d3c00e5a2c62a3abfe5a7444afb"};
