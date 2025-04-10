@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "cee9034ee4fc53d6d7338f3bf3e4f8d1",
-"assets/AssetManifest.bin.json": "0d51540d2db42dd2cd6a6c863ef31a66",
-"assets/AssetManifest.json": "a0ebd034cd7f4539de7129a11997073b",
+const RESOURCES = {"assets/AssetManifest.bin": "6c2604233bc19b978ef83e8412873df2",
+"assets/AssetManifest.bin.json": "b8923dcfcf590b9bbe7e8e034d2229a3",
+"assets/AssetManifest.json": "cba9b4bc69fbafb87890e2d041cd2d10",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/images/adaptive_foreground_icon.png": "7c74d457ce2bd289ce382e2048bbe158",
@@ -20,9 +20,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "cee9034ee4fc53d6d7338f3bf3e4f8d1
 "assets/assets/rive_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/videos/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "08d49084d7648a0ba5fc280d6a05ac62",
-"assets/NOTICES": "69a843bdde3bd0d131d2a92ec8b98d0d",
+"assets/fonts/MaterialIcons-Regular.otf": "4654d82b2fc8c175405f109184e4d9f2",
+"assets/NOTICES": "65be5901838ceb6b0c07f11d01ba43ce",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "d7d83bd9ee909f8a9b348f56ca7b68c6",
+"assets/packages/flutter_sound_web/howler/howler.js": "2bba823e6b4d71ea019d81d384672823",
+"assets/packages/flutter_sound_web/src/flutter_sound.js": "aecd83c80bf4faace0bcea4cd47ab307",
+"assets/packages/flutter_sound_web/src/flutter_sound_player.js": "6bf84579813fd481ec5e24e73927500d",
+"assets/packages/flutter_sound_web/src/flutter_sound_recorder.js": "f7ac74c4e0fd5cd472d86c3fe93883fc",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "0c9aefc1fbf512209b0ffad4b7da8f1a",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "15c743b5dccf86e37b7f55428375c570",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "8633d6cdbd8ed5c6ffdbcbf164db24bb",
@@ -50,7 +54,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cee9034ee4fc53d6d7338f3bf3e4f8d1
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "8eea1bcf47db768d65692da84141a1a6",
 "/": "8eea1bcf47db768d65692da84141a1a6",
-"main.dart.js": "6aa1ab66c97ac6f39c8d923d6e1736d0",
+"main.dart.js": "c90609f1110227cab6649288d656fd78",
 "manifest.json": "ac0b558dd6940169e779724afa5dd88b",
 "version.json": "6d5528926da17ebf1aaeb0205082a8ed",
 "wmlogoHouse.png": "25a09d3c00e5a2c62a3abfe5a7444afb"};
